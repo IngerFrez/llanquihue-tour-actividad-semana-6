@@ -57,7 +57,7 @@ Clase ubicada en el paquete `ui`. Ejecuta el programa llamando al método de pru
 
 ## Instrucciones para ejecutar
 
-1. Abrir el proyecto en NetBeans.
+1. Abrir el proyecto en Intellij IDEA.
 2. Verificar que las clases estén dentro de los paquetes `model`, `data` y `ui`.
 3. Ejecutar la clase `Main`.
 4. Revisar en consola la información de los servicios turísticos creados.
